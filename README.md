@@ -46,7 +46,7 @@
 
 
 
-### DevOps  
+### Databases 
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -84,13 +84,13 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Music
 La musica es mi gran acompañante durante las jornadas de estudio y código! Me encanta escuchar de todo. Además de que soy creyente de que ayuda a regular las emociones, crea felicidad y nos da un toque de relajación en la vida cotidiana.   
   
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12175491494&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12175491494&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>  
 
 <br/>  
 
@@ -104,5 +104,3 @@ La musica es mi gran acompañante durante las jornadas de estudio y código! Me 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
