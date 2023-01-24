@@ -12,7 +12,7 @@
 - ❓Me gusta compartir mi conocimiento, por eso no dudes en preguntarme, ¡el conocimiento es poder.  
   
 
-- ⚡Dato curioso: En algún momento me encantaría ser docente, la educación actual necesita una transformación en conocimientos, competencias, actitudes y en los valores necesarios para ser resilientes, adaptarse y estar preparados para un futuro de la mano de la tecnología.  
+- ⚡Dato curioso: En algún momento me encantaría ser docente, la educación actual necesita una transformación en conocimientos, competencias, actitudes y en los valores necesarios para ser resilientes, adaptarse y estar preparados para un presente y futuro de mano de la tecnología.  
   
 
 <br/>  
