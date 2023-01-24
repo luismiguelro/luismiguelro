@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Soy Luis Miguel, un apasionado por el desarollo web👨‍💻 ,y el aprendizaje autónomo 🧠.</div>  
+### <div align="center">Soy Luis Miguel, un apasionado por el desarollo web👨‍💻 y el aprendizaje autónomo🧠</div>  
   
 
 - 🌱 Actualmente me encuentro aprendiendo sobre Backend (Kotlin, Java) y Bases de Datos ( MySQL, MariaBD, PostgreSQL)   
   
 
-- ❓Me gusta compartir mi conocimiento, por eso no dudes en preguntarme, ¡el conocimiento es poder.  
+- ❓Me gusta compartir mi conocimiento, por eso no dudes en preguntarme, ¡el conocimiento es poder!  
   
 
 - ⚡Dato curioso: En algún momento me encantaría ser docente, la educación actual necesita una transformación en conocimientos, competencias, actitudes y en los valores necesarios para ser resilientes, adaptarse y estar preparados para un presente y futuro de mano de la tecnología.  
