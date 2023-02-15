@@ -18,43 +18,40 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Languages and Technologies
+
 
 
 
 ### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ff6600?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-007bff?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-262626?style=for-the-badge&logo=javascript&logoColor=ffdd00">
+</p>
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-</div>
+### Backend 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red">
+  <img src="https://img.shields.io/badge/Kotlin-e44857?style=for-the-badge&logo=kotlin&logoColor=white">
+  
+</p>
 
-</td><td valign="top" width="33%">
 
 
 
 ### Databases 
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
+<p align="center">
+   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white">
+   
+  
+  
+</p>
 <br/>  
 
 
@@ -76,7 +73,6 @@
   
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luismiguelro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
