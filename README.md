@@ -25,20 +25,19 @@
 
 ### Frontend  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-ff6600?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-007bff?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-FF69B4?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-262626?style=for-the-badge&logo=javascript&logoColor=ffdd00">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718">
 </p>
 
 
 
 ### Backend 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=red">
-  <img src="https://img.shields.io/badge/Kotlin-e44857?style=for-the-badge&logo=kotlin&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
 </p>
 
 
@@ -46,12 +45,16 @@
 
 ### Databases 
 <p align="center">
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   <img src="https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white">
-   
-  
-  
+   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
+
+  ###  I'm learning at university
+<p align="center">
+   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge"> 
+</p>
+
 <br/>  
 
 
