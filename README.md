@@ -6,7 +6,7 @@
 ### <div align="center">Soy Luis Miguel, un apasionado por el desarollo web👨‍💻 y el aprendizaje autónomo🧠</div>  
   
 
-- 🌱 Actualmente me encuentro aprendiendo sobre Backend (Kotlin, Java) y Bases de Datos ( MySQL, MariaBD, PostgreSQL)   
+- 🌱 Actualmente me encuentro aprendiendo sobre Backend (Kotlin, Java),Bases de Datos ( MySQL,PostgreSQL) y React.js  
   
 
 - ❓Me gusta compartir mi conocimiento, por eso no dudes en preguntarme, ¡el conocimiento es poder!  
