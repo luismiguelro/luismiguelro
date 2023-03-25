@@ -6,19 +6,19 @@
 ### <div align="center">Soy Luis Miguel, un apasionado por el desarollo web👨‍💻 y el aprendizaje autónomo🧠</div>  
   
 
-- 🌱 Actualmente me encuentro aprendiendo sobre Backend (Kotlin, Java),Bases de Datos ( MySQL,PostgreSQL) y React.js  
+- 🌱 Actualmente me encuentro inmerso en el fascinante mundo del Backend, aprendiendo acerca de Kotlin, Java, Bases de Datos como MySQL y PostgreSQL, y la increíble librería de React.js,para el Frontend. Siempre estoy buscando aprender más y mejorar mis habilidades para poder crear soluciones tecnológicas que impacten positivamente en la vida de las personas.
   
 
-- ❓Me gusta compartir mi conocimiento, por eso no dudes en preguntarme, ¡el conocimiento es poder!  
+- ❓ Me apasiona compartir mi conocimiento con los demás, así que no dudes en preguntarme cualquier cosa. Estoy convencido de que el conocimiento es poder y que todos podemos aprender algo nuevo cada día.
   
 
-- ⚡Dato curioso: En algún momento me encantaría ser docente, la educación actual necesita una transformación en conocimientos, competencias, actitudes y en los valores necesarios para ser resilientes, adaptarse y estar preparados para un presente y futuro de mano de la tecnología.  
+- ⚡Dato curioso: Mi gran sueño es ser docente en algún momento de mi vida. Creo firmemente que la educación actual necesita una transformación profunda que incluya no solo conocimientos técnicos, sino también competencias, actitudes y valores necesarios para ser resilientes, adaptarse y estar preparados para un presente y futuro liderados por la tecnología. ¿Te unes a mi causa?  
   
 
 <br/>  
 
 
-## Languages and Technologies
+## Lenguajes y Tecnologías
 
 
 
@@ -58,7 +58,7 @@
 <br/>  
 
 
-## Connect with me  
+## ¿Conectamos?
 <div align="center">
 <a href="https://twitter.com/luismiguelro_" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -77,14 +77,17 @@
 
 <br/>  
 
-## Github Stats  
+## Estadísticas Github 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luismiguelro&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Music
-La musica es mi gran acompañante durante las jornadas de estudio y código! Me encanta escuchar de todo. Además de que soy creyente de que ayuda a regular las emociones, crea felicidad y nos da un toque de relajación en la vida cotidiana.   
+## Música
+Aquí podrás encontrar el trabajo de alguien que cree firmemente que la música es más que solo un pasatiempo, es un compañero constante en mi vida mientras trabajo en proyectos de código y estudio. Desde música clásica hasta rock, pasando por el hip-hop y la electrónica, me encanta experimentar con diferentes géneros y ritmos para encontrar la melodía perfecta para cada momento.
+
+Creo que la música es una herramienta poderosa que puede ayudarnos a regular nuestras emociones, a crear felicidad y a encontrar momentos de relajación en nuestra vida cotidiana.
+ 
   
 
 <br/>  
