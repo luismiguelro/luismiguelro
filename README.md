@@ -77,8 +77,12 @@
 <a href="https://instagram.com/luismiguelro_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+<a href="https://portfolio-luis-miguel.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio" style="margin-bottom: 5px; background-color: #FF69B4; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
+</a>
+</div>
+
+
 
 <br/>  
 
