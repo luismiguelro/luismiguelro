@@ -57,8 +57,11 @@
 
   ###  Estoy aprendiendo en la Universidad
 <p align="center">
-   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-React%20Native-5667F9?style=for-the-badge&logo=react&logoColor=white">
+
 </p>
 
 <br/>  
