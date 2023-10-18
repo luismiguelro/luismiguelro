@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" align="center" style="width: 100%" />
-  
-</div>  
+  <img height="150" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif"  />
+</div>
+
   
 
 ### <div align="center">Soy Luis Miguel, un apasionado por el desarollo web👨‍💻 y el aprendizaje autónomo🧠</div>  
