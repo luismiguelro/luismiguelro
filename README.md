@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-  🌱 Actualmente explorando el emocionante universo del desarrollo backend. Aprendiendo tecnologías como Spring Boot, bases de datos MySQL y PostgreSQL, y la increíble librería React.js para el desarrollo frontend. Mi pasión por crear soluciones tecnológicas que impacten positivamente en la vida de las personas me motiva a mejorar constantemente mis habilidades y conocimientos.
+🌱 Actualmente, me encuentro explorando el emocionante universo del desarrollo backend, aprendiendo tecnologías como Spring Boot. También trabajo con herramientas como Power BI y Python, lo que me permite analizar datos y construir soluciones completas. Mi pasión por crear soluciones tecnológicas que generen un impacto positivo en la vida de las personas me motiva a mejorar constantemente mis habilidades y conocimientos.
 </p>
 
 <p align="center">
@@ -45,15 +45,13 @@
 ###
 <div align="center">
 
-<h3>💻 Frontend</h3>
+<h3> 📊 Data Analysis </h3>
 
-![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
-![](https://img.shields.io/badge/bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![](https://img.shields.io/badge/sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699)
-![](https://img.shields.io/badge/react.js-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB) 
+![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458) 
+![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243) 
+![Power BI](https://img.shields.io/badge/power%20bi-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811) 
+![SQL](https://img.shields.io/badge/sql-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1) 
 
 ###
 
@@ -76,6 +74,17 @@
 
 ###
 
+<h3>💻 Frontend</h3>
+
+![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![](https://img.shields.io/badge/css-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
+![](https://img.shields.io/badge/bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![](https://img.shields.io/badge/sass-0d1117?style=for-the-badge&logo=sass&logoColor=CC6699)
+![](https://img.shields.io/badge/react.js-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 <h3>🧰 Herramientas</h3>
 
 ![](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
@@ -91,13 +100,6 @@
 
 ###
 
-<h3 >🖥️ Otros lenguajes</h3>
-
-![](https://img.shields.io/badge/django-0d1117?style=for-the-badge&logo=django&logoColor=092E20)
-![](https://img.shields.io/badge/c%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
-</div>
-
-###
 
 <h2 align="center">🔥 Estadísticas</h2>
 
@@ -114,7 +116,7 @@
 
 <br />
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12175491494&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=false" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12175491494&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" /></div>
 
 <br />
 
