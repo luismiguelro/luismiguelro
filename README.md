@@ -17,7 +17,7 @@ Data Engineer & BI Developer en Medellín 🇨🇴. Construyo pipelines end-to-e
 
 - 🔭 Actualmente optimizando queries sobre **2.2M filas** de un ERP farmacéutico real
 - 🤖 Deployé un modelo XGBoost (R² 0.97) que predice precios de vuelos en vivo
-- 📊 +4 años transformando datos en decisiones para PyMEs colombianas
+- 📊 +2 años transformando datos en decisiones para PyMEs colombianas
 - ⚡ Fun fact: creo que un buen README vale tanto como el código
 
 ---
