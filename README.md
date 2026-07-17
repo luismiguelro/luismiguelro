@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="luismiguelro's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Data+Engineer+%26+BI+Developer;SQL+%7C+Python+%7C+Power+BI;Pipelines+que+mueven+decisiones" alt="Typing SVG" />
